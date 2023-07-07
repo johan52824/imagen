@@ -54,4 +54,4 @@ jobs:
         docker push erickmera1/imagen:$NEW_VERSION
         docker push erickmera1/imagen:latest
  
-# - explicación:
+# - explicación: yes
